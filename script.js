@@ -1,7 +1,5 @@
-const share_btn = document.querySelector(".share");
 
-share_btn.addEventListener("click", () => {
-});
+
 
 function myFunction() {
   const cns_box = document.querySelector(".cns-box");
